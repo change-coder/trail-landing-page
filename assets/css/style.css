@@ -1,9 +1,7 @@
-/**
-* Template Name: Appland - v4.0.1
-* Template URL: https://bootstrapmade.com/free-bootstrap-app-landing-page-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
+
+.row-cols-4>* {
+  margin-top: 50px;
+}
 
 /*--------------------------------------------------------------
 # General
@@ -151,7 +149,16 @@ h1, h2, h3, h4, h5, h6 {
   color: #5777ba;
 }
 
-.navbar .getstarted {
+.navbar .login {
+  background: #5777ba;
+  color: #fff;
+  padding: 12px 25px;
+  margin-left: 30px;
+  color: #fff;
+  line-height: 1;
+  border-radius: 50px;
+}
+.navbar .signup {
   background: #5777ba;
   color: #fff;
   padding: 12px 25px;
