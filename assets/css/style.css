@@ -239,6 +239,16 @@ h1, h2, h3, h4, h5, h6 {
 /**
 * Mobile Navigation 
 */
+
+/* ==========for brand image ======== */
+
+@media only screen and (max-width: 800px)
+{
+  .col {
+    height: 50px;
+  }
+}
+
 .mobile-nav-toggle {
   color: #47536e;
   font-size: 28px;
